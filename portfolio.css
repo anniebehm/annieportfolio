@@ -43,6 +43,8 @@ li:hover {
 
 li{
     font-family:courier new;
+    text-decoration:none;
+    font-weight:bold;
     font-size: 30pt;}html {
   height: 10%;
   box-sizing: border-box;
@@ -86,3 +88,9 @@ width:90px;
 height:80px;
 
 }
+
+li{
+    text-decoration:none;
+}
+
+ 
