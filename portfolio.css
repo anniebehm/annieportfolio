@@ -1,0 +1,88 @@
+h1 { text-align: center;
+    position:static;
+    }
+
+body{
+    font-family:"courier new";
+    background-color:#364c70;
+}
+#background1 {
+    height:1329px;
+    width:2009px;
+    background-color:#364c70;
+    margin-top: 0px;
+}
+body {
+    color:white;
+}
+
+h1{
+    font-size:60px;
+}
+    
+    ul {
+    
+    margin: 0;
+    padding: 0;
+    height: 980px;
+    width: 100%; 
+    background-color: #f1f1f1;
+}
+
+li {
+    display: block;
+    color: #000;
+    padding: 100px 10px;
+    text-decoration: none;
+}
+
+li:hover {
+    background-color: #e08489;
+    color: white;
+}
+
+li{
+    font-family:courier new;
+    font-size: 30pt;}html {
+  height: 10%;
+  box-sizing: border-box;
+}
+#header{
+    height:90px;
+    width: 100%;
+}
+
+#middle{
+    height:980px;
+    width:12%;
+    float: left;
+
+}
+p{
+    font-size: 50px;
+}
+#right {
+    box-sizing: border-box;
+    border-style: solid;
+    float:right;
+    width: 65%;
+    height: 960px;
+    margin-right: 375px;
+    background:url("https://mail.google.com/mail/u/0/?ui=2&ik=2d342a0d37&view=att&th=15d61689a8b3f2f2&attid=0.1&disp=safe&zw")
+    no-repeat;
+    background-size:contain;
+}
+
+#wrapper {
+    width: 100%;
+}
+img{
+float: right;    
+}
+
+#img{
+background-color:pink;
+width:90px;
+height:80px;
+
+}
