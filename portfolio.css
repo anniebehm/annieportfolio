@@ -24,7 +24,7 @@ h1{
     
     margin: 0;
     padding: 0;
-    height: 980px;
+    height: 960px;
     width: 100%; 
     background-color: #f1f1f1;
 }
@@ -32,7 +32,7 @@ h1{
 li {
     display: block;
     color: #000;
-    padding: 100px 10px;
+    padding: 65px 20px;
     text-decoration: none;
 }
 
@@ -45,7 +45,7 @@ li{
     font-family:courier new;
     text-decoration:none;
     font-weight:bold;
-    font-size: 30pt;}html {
+    font-size: 20pt;}html {
   height: 10%;
   box-sizing: border-box;
 }
@@ -92,5 +92,3 @@ height:80px;
 li{
     text-decoration:none;
 }
-
- 
