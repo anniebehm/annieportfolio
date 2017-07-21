@@ -1,0 +1,34 @@
+h1{
+    text-align:center;
+    }
+h1{
+    font-size:40px;}
+body{
+    font-family:"arial";
+      background-image:url("http://media-cache-ak0.pinimg.com/736x/e1/c6/32/e1c63299777249906ab4026623869615.jpg");}
+    
+p{
+    text-align:center;}
+
+#background{
+    height:1159px;
+    width: 1070px;
+    background-size:cover;
+      background-image:url("http://media-cache-ak0.pinimg.com/736x/e1/c6/32/e1c63299777249906ab4026623869615.jpg");
+  margin-top: 0px;
+  margin-bottom: 00px;
+  margin-left: 0px;
+    }  
+ol{
+    font-size:25px;
+    margin-left: 50px;
+    }
+    li {
+    color: #000;
+    padding: 35px 10px;
+}
+
+ol{
+    font-family:"courier new";
+}
+
